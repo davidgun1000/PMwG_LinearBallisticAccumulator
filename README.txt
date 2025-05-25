@@ -1,6 +1,6 @@
 ### READ ME FIRST ###
 
-This OSF page contains Matlab code to run the Particle Metropolis
+This page contains Matlab code to run the Particle Metropolis
 within Gibbs (PMwG) and Density Tempered Sequential Monte Carlo 
 (DTSMC) algorithms developed in:
 
